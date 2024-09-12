@@ -1,13 +1,10 @@
 ﻿{
   "Name": "QuickSave Custom Companions Fix",
   "Author": "Open Source",
-  "Version": "3.3.0",
-  "Description": "This mod allows you to save your game at any time, anywhere.",
+  "Version": "1.0.0",
+  "Description": "This mod adds Custom Companions compatibility for QuickSave",
   "UniqueID": "Omegasis.SaveAnywhere",
   "EntryDll": "QuickSaveCCFix.dll",
   "MinimumApiVersion": "4.0.0",
-  "UpdateKeys": [
-    "Nexus:8386",
-    "GitHub:RealSweetPanda/SaveAnywhereRedux"
-  ]
+  "UpdateKeys": []
 }
